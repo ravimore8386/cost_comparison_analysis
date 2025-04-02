@@ -1,7 +1,7 @@
 # cost_effective_analysis
-This repository contains Jupyter Notebook files analyzing the costs of methods A &amp; B. The methods are compared based on their static costs, reductions, and cumulative cost, providing insights into cost-effectiveness for decision-making in healthcare.
+This repository contains Jupyter Notebook files analyzing the costs of methods A and B. The methods are compared based on their static costs, reductions, and cumulative costs, providing insights into cost-effectiveness.
 
-Following python programs are used for result visalisation:
+Following Python programs are used for result visualisation:
 1. Static costs Method A, B | Costs/trio
 2. Static costs Method A, B | Per trio cumulative cost
 3. 5-fold reduction Method A costs + Static cost Method B | Per trio cost
